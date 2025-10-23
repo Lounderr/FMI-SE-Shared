@@ -1,3 +1,4 @@
+```shell
 # Admin network/pc should be w/ a static ip
 
 # ROUTER
@@ -134,3 +135,5 @@ switchport mode trunk
 no shut
 do wr
 exit
+
+```
